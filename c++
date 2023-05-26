@@ -46,3 +46,5 @@ public:
                return ans;
     }
 };
+T.C-O(n)
+S.C -O(n)
